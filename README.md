@@ -1,7 +1,6 @@
 # Udacity-CRISP
 **Description:** *Analyse a dataset and answer 5 business questions*
 
-https://insights.stackoverflow.com/survey
 ### :package: Libraries used:
 `import pandas as pd`<br>
 `import numpy as np`<br>
@@ -38,3 +37,9 @@ I had to answer this 5 questions:
 * Do those who work from home are those who Program as hobby as well ?
 * Do the larger company have more employees who work from home ?
 * What race has the highest salary ?
+
+Although I need more knowledge, experience and probably hypothesis tests to answer these questions, I really dive deep into the exploratory data analysis, and I used most of times descriptive statistics to answer these questions.
+The answers you can find in the commentaries in jupyter notebook.
+
+### :boy: Author:
+
