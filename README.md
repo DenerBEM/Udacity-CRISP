@@ -19,7 +19,15 @@ My motivation for this project was to gain more experience in analysing and mani
 ### Files:
 * License:<br>
 I'm using MIT license
+<br>
 * Jupyter Notebook: <br>
 Project-CRISP.ipynb
+<br>
+* README.md:<br>
+It's where you are. It contains things about the project.
+<br>
+* Dataset:<br>
+You can download the dataset in this link: https://insights.stackoverflow.com/survey <br>
+* You should download the year 2017* 
 
-a summary of the results of the analysis, and necessary acknowledgements.
+### Results:
