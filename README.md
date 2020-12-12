@@ -16,7 +16,7 @@ My motivation for this project was to gain more experience in analysing and mani
 
 
 
-### Files:
+### :open_file_folder: Files:
 * License:<br>
 I'm using MIT license
 
@@ -29,4 +29,12 @@ It's where you are. It contains things about the project.
 You can download the dataset in this link: https://insights.stackoverflow.com/survey <br>
 *You should download the year 2017* 
 
-### Results:
+### :bar_chart: Results:
+
+I had to answer this 5 questions:
+
+* Better countries have better salaries ?
+* Which gender has the highest salary ?
+* Do those who work from home are those who Program as hobby as well ?
+* Do the larger company have more employees who work from home ?
+* What race has the highest salary ?
