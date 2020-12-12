@@ -17,9 +17,9 @@ My motivation for this project was to gain more experience in analysing and mani
 
 
 ### Files:
-* License 
+* License:<br>
 I'm using MIT license
-* Jupyter Notebook
+* Jupyter Notebook: <br>
 Project-CRISP.ipynb
 
 a summary of the results of the analysis, and necessary acknowledgements.
