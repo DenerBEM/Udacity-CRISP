@@ -27,6 +27,6 @@ Project-CRISP.ipynb
 It's where you are. It contains things about the project.
 * Dataset:<br>
 You can download the dataset in this link: https://insights.stackoverflow.com/survey <br>
-* You should download the year 2017 * 
+*You should download the year 2017* 
 
 ### Results:
