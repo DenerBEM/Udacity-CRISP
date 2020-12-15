@@ -39,7 +39,8 @@ I had to answer this 5 questions:
 * What race has the highest salary ?
 
 Although I need more knowledge, experience and probably hypothesis tests to answer these questions, I really dive deep into the exploratory data analysis, and I used most of times descriptive statistics to answer these questions.
-The answers you can find in the commentaries in jupyter notebook.
+The answers you can find in the commentaries in jupyter notebook, and in **my post on Medium**:
+https://denercel.medium.com/5-interesting-questions-about-job-and-salary-1dee37b72e5c
 
 ### :boy: Author:
 My name is Dener, I'm 25 years old, and I've studied Data Science since 2019, and I've been putting my knowledge in practice by doing some personal projects and publish them on GitHub.
