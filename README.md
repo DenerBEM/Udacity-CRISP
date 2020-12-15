@@ -1,5 +1,5 @@
 # Udacity-CRISP
-**Description:** *Analyse a dataset and answer 5 business questions*
+**Description:** *Analyze a dataset and answer 5 business questions*
 
 ### :package: Libraries used:
 `import pandas as pd`<br>
